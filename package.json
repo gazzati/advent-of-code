@@ -1,0 +1,10 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "author": "Gazzaev Timur",
+  "license": "ISC",
+  "homepage": "https://github.com/gazzati/advent-of-code#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
