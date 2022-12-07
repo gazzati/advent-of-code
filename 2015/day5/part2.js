@@ -1,4 +1,4 @@
-const data = document.getElementsByTagName('pre')[0].textContent.split('\n').slice(0, -1)
+const data = document.getElementsByTagName("pre")[0].textContent.split("\n").slice(0, -1)
 const equalPair = /(..).*?\1/
 const pairWithLetterBetween = /(.).\1/
 
